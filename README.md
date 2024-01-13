@@ -9,8 +9,5 @@ To build this project You need to unarchive (unzip) an external.zip file and exe
 ## Tools
 cmake, c++14, stb_perlin, glm, opengl, glfw, glew, dear imgui.
 
-## About
-This project is free. See LICENSE.txt file.
-
 ## About tournament
 I took third place and was Volyn oblast team member (lead programmer and speaker).
