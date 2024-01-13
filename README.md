@@ -9,5 +9,8 @@ To build this project You need to unarchive (unzip) an external.zip file and exe
 ## Tools
 cmake, c++14, stb_perlin, glm, opengl, glfw, glew, dear imgui.
 
+## About code
+Code quality is not really high because main goal was to write a program as fast as possible. No code refactoring.
+
 ## About tournament
 I took third place and was Volyn oblast team member (lead programmer and speaker).
