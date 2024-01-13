@@ -1,0 +1,48 @@
+User Guide.
+
+This application allows you to conduct experiments with pairs
+of projectiles and targets in a 3D environment. You can also
+introduce obstacles and edit various parameters to customize your experiments.
+
+Upon launching the application, you will be presented with a 3D environment.
+Here's an overview of the main features:
+
+    - You can create and edit pairs of projectiles and targets.
+    - Introduce obstacles into the environment and customize their parameters.
+    - Use the camera controls (enable it by pressing 'Escape').
+	- Generate trajectory for projectiles and targets by pressing 'Enter'.
+	- Stop/resume simulation by pressing 'Space'.
+	- Toggle 'Options' checkbox in main menu bar to open options menu.
+
+To edit a projectile, a target or an obstacle, follow these steps:
+
+    - Enable camera control mode by toggling an escape (ESC) key.
+	- Point mouse cursor to a body You want to edit.
+	- Click on the desired body.
+
+    A window will appear, allowing you to modify various parameters.
+
+Use the camera controls to navigate the 3D environment:
+
+    Camera movement: use keys WASD to move in 3D space.
+    Camera rotation: drag mouse to rotate camera.
+    Zoom In/Out: do vertical mouse scroll to change zoom value.
+
+Frequently asked questions:
+
+    - How to quit? - Press Q key or close the window.
+	- How to add bodies? - Go to tab 'Body creating' in options menu.
+	- How to generate trajectory for bodies? - Press Enter.
+	- How to edit trajectory? - Select a body and toggle checkbox
+	  'Edit trajectory', then edit any vertex position.
+
+Troubleshooting:
+
+If you encounter any issues please report them to program author
+email address (artemisia8192@gmail.com), and our support
+team will assist you promptly.
+
+Contact and Support:
+
+For further assistance, contact application author artemisia8192@gmail.com.
+Thank you for using this application! We appreciate your feedback.

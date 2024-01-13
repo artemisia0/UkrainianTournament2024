@@ -1,0 +1,197 @@
+Acceleration
+Прискорення
+Angle in horizontal plane
+Кут у горизонтальній площині
+Angle in horizontal plane: %.4f
+Кут у горизонтальній площині: %.4f
+Angle in vertical plane
+Кут у вертикальній площині
+Angle in vertical plane: %.4f
+Кут у вертикальній площині: %.4f
+Background
+Фон
+Body color
+Колір об'єкту
+Body creating
+Створення об'єкту
+Body pair editor #
+Редактор пар об'єктів №
+Camera
+Камера
+Camera angle in horizontal plane
+Кут камери у горизонтальній площині
+Camera angle in vertical plane
+Кут камери у вертикальній площині
+Camera control enabled
+Керування камерою увімкнено
+Camera direction
+Напрямок камери
+Camera position
+Положення камери
+Camera speed
+Швидкість камери
+Color
+Колір
+Color theme
+Тема кольору
+Create random projectile and target
+Створити випадковий снаряд та ціль
+Dark
+Темний
+Draw model
+Малювати модель
+Drawing mode
+Режим малювання
+Edit noise
+Редагувати шум
+Edit trajectory
+Редагувати траєкторію
+Far plane
+Далека площина
+Field of view
+Поле огляду
+Frequency
+Частота
+General
+Загальне
+Gravity
+Гравітація
+Gray
+Сірий
+Help
+Довідка
+Language
+Мова
+Light
+Світло
+Lines
+Лінії
+Maximum projectile acceleration
+Максимальне прискорення снаряду
+Maximum projectile color
+Максимальний колір снаряду
+Maximum projectile initial speed
+Максимальна початкова швидкість снаряду
+Maximum projectile position
+Максимальне положення снаряду
+Maximum projectile radius
+Максимальний радіус снаряду
+Maximum target acceleration
+Максимальне прискорення цілі
+Maximum target angle (horizontal)
+Максимальний кут цілі (горизонтальний)
+Maximum target angle (vertical)
+Максимальний кут цілі (вертикальний)
+Maximum target color
+Максимальний колір цілі
+Maximum target initial speed
+Максимальна початкова швидкість цілі
+Maximum target position
+Максимальне положення цілі
+Maximum target radius
+Максимальний радіус цілі
+Minimum projectile acceleration
+Мінімальне прискорення снаряду
+Minimum projectile color
+Мінімальний колір снаряду
+Minimum projectile initial speed
+Мінімальна початкова швидкість снаряду
+Minimum projectile position
+Мінімальне положення снаряду
+Minimum projectile radius
+Мінімальний радіус снаряду
+Minimum target acceleration
+Мінімальне прискорення цілі
+Minimum target angle (horizontal)
+Мінімальний кут цілі (горизонтальний)
+Minimum target angle (vertical)
+Мінімальний кут цілі (вертикальний)
+Minimum target color
+Мінімальний колір цілі
+Minimum target initial speed
+Мінімальна початкова швидкість цілі
+Minimum target position
+Мінімальне положення цілі
+Minimum target radius
+Мінімальний радіус цілі
+Mix
+Змішування
+Model
+Модель
+Model scaling
+Масштабування моделі
+Mouse sensitivity
+Чутливість миші
+Near plane
+Близька площина
+None
+Жоден
+Options
+Опції
+Pause
+Пауза
+Points
+Точки
+Position
+Положення
+Projectile #
+Снаряд №
+Projectile angles epsilon
+Похибка кута снаряду
+Projectile/Target pair count: %d
+Кількість пар снаряд/ціль: %d
+Radius
+Радіус
+Reset settings
+Скинути налаштування
+Seed
+Початкове значення
+Show trajectory
+Показати траєкторію
+Simulation step period
+Період кроку симуляції
+Speed
+Швидкість
+Target #
+Ціль №
+Trajectory length
+Довжина траєкторії
+Trajectory step
+Крок траєкторії
+Triangles
+Трикутники
+Vertex #
+Вершина №
+Window size
+Розмір вікна
+Grid color
+Колір сітки
+Grid height
+Висота сітки
+Create random obstacle
+Створити випадкову перешкоду
+Minimum obstacle position
+Мінімальне положення перешкоди
+Maximum obstacle position
+Максимальне положення перешкоди
+Minimum obstacle radius
+Мінімальний радіус перешкоди
+Maximum obstacle radius
+Максимальний радіус перешкоди
+Minimum obstacle color
+Мінімальний колір перешкоди
+Maximum obstacle color
+Максимальний колір перешкоди
+Obstacle editor #
+Редактор перешкоди №
+Remove this pair
+Видалити цю пару
+Remove this obstacle
+Видалити цю перешкоду
+Obstacles count: %d
+Кількість перешкод: %d
+Destroyed targets count: %d
+Кількість знищених цілей: %d
+To reset trajectory
+Переобчислювати траєкторію
+
